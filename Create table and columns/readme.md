@@ -1,1 +1,1 @@
-Creating tables and columns in sql
+08.Creating Tables and Database in SQL
